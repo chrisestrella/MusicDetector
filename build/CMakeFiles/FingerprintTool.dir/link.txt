@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/FingerprintTool.dir/tools/fingerprint_song.cpp.o -o FingerprintTool  /usr/local/lib/libportaudio.dylib /usr/local/lib/libfftw3.dylib /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd

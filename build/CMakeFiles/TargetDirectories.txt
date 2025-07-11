@@ -1,0 +1,5 @@
+/Users/cons/MusicDetector/build/CMakeFiles/MusicDetector.dir
+/Users/cons/MusicDetector/build/CMakeFiles/FingerprintTool.dir
+/Users/cons/MusicDetector/build/CMakeFiles/LrcParser.dir
+/Users/cons/MusicDetector/build/CMakeFiles/edit_cache.dir
+/Users/cons/MusicDetector/build/CMakeFiles/rebuild_cache.dir
