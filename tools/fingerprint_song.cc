@@ -1,4 +1,4 @@
-// tools/fingerprint_song.cpp
+// Copyright [2025] <Christian Estrella>
 
 #include <iostream>
 

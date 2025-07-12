@@ -16,12 +16,12 @@ find_library(FFTW3_LIB fftw3)
 
 # Main application sources
 set(SOURCES
-    src/main.cpp
-    src/AudioCapture.cpp
-    src/Fingerprinter.cpp
-    src/Matcher.cpp
-    src/MetadataManager.cpp
-    src/DisplayRenderer.cpp
+    src/main.cc
+    src/AudioCapture.cc
+    src/Fingerprinter.cc
+    src/Matcher.cc
+    src/MetadataManager.cc
+    src/DisplayRenderer.cc
 )
 
 # Add main executable

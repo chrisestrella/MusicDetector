@@ -1,3 +1,4 @@
+// Copyright [2025] <Christian Estrella>
 #ifndef TYPES_H_
 #define TYPES_H_
 

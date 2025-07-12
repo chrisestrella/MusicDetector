@@ -1,3 +1,4 @@
+// Copyright [2025] <Christian Estrella>
 #ifndef DISPLAY_RENDERER_H_
 #define DISPLAY_RENDERER_H_
 

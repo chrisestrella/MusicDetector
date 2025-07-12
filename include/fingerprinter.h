@@ -1,3 +1,4 @@
+// Copyright [2025] <Christian Estrella>
 #ifndef FINGERPRINTER_H_
 #define FINGERPRINTER_H_
 

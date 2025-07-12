@@ -1,3 +1,4 @@
+// Copyright [2025] <Christian Estrella>
 #ifndef METADATA_MANAGER_H_
 #define METADATA_MANAGER_H_
 

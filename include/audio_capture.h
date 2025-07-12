@@ -1,3 +1,4 @@
+// Copyright [2025] <Christian Estrella>
 #ifndef AUDIO_CAPTURE_H_
 #define AUDIO_CAPTURE_H_
 
